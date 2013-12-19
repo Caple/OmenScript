@@ -1,0 +1,4 @@
+This project references Bukkit and several Bukkit plugins.
+Bukkit and each of these plugins belong to their respective owner(s).
+Bukkit and each of these plugins are not in any way affiliated with this project.
+For more information you may contact Jesse Caple at thisrhythm@gmail.com

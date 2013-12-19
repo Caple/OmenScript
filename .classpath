@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/bukkit-1.6.4-R2.0.jar"/>
+	<classpathentry kind="lib" path="lib/Citizens.jar"/>
+	<classpathentry kind="lib" path="lib/craftbukkit-1.6.4-R2.0.jar"/>
+	<classpathentry kind="lib" path="lib/spoutcraftplugin-1.6.4-b1.jar"/>
+	<classpathentry kind="lib" path="lib/Vault.jar"/>
+	<classpathentry kind="lib" path="lib/EpicBossRecoded.jar"/>
+	<classpathentry kind="lib" path="lib/Heroes.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

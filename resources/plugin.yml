@@ -1,0 +1,13 @@
+name: OmenScript
+main: pw.caple.mc.omenscript.OmenScript
+version: 1.4.1
+author: GaryOak
+website: http://omencraft.com
+description: This plugin makes use of a YAML-like scripting language to add custom, GUI-enabled, quests for a
+ Spoutcraft server.
+depend: [Spout, Citizens]
+softdepend: [Vault, Heroes]
+commands:
+   scripts:
+      description: Script commands.
+      usage: /scripts

@@ -1,0 +1,7 @@
+tab: 4
+usemysql: false
+mysql:
+   url: ignored if using sqlite
+   username:
+   password:
+   

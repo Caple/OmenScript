@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE project>
+
+<project name="OmenScript" default="run" basedir=".">
+
+    <property name="version" value="SNAPSHOT" />
+    <property name="jar" value="C:/Projects/forge/mcp/eclipse/.bukkit/plugins/OmenScript-${version}.jar" />
+
+    <target name="run">
+        <jar jarfile="${jar}">
+            <fileset dir=".">
+            	<include name="gpl.txt" />
+                <include name="NOTICE.txt" />
+                <include name="LICENSE.txt" />
+            </fileset>
+        	<fileset dir="resources" />
+            <fileset dir="bin" />
+        </jar>
+    </target>
+
+</project>
